@@ -1,0 +1,10 @@
+
+.travel {
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+.MuiCardContent-root:last-child {
+  padding-bottom: 20px!important;
+}

@@ -1,0 +1,13 @@
+.root {
+  min-width: 500px;
+  margin-top: 80px;
+  padding: 10px,
+}
+
+.price {
+    float: right;
+  }
+
+.hide-travel {
+  display: none;
+}  
